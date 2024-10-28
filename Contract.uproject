@@ -46,6 +46,14 @@
 		{
 			"Name": "PlasticSourceControl",
 			"Enabled": false
+		},
+		{
+			"Name": "GameplayBehaviors",
+			"Enabled": true
+		},
+		{
+			"Name": "DatasmithFBXImporter",
+			"Enabled": true
 		}
 	]
 }
